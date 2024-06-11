@@ -1,0 +1,61 @@
+.searchBar{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.weatherCard{
+    margin: 10px 0px;
+    color: rgb(40, 40, 40);
+    min-height: 40vh;
+    background: white;
+    border: 1px solid black;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 1.4rem;;
+    font-weight: bold;
+    padding-top:40px;
+}
+
+.weather-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px 0px;
+}
+
+.weather-info-img {
+    padding: 10px 0px;
+    align-self: center;
+}
+
+.card-body-text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:2px;
+}
+
+.card-body-text2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+
+.card-bottom {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    font-size: 0.8rem;
+}

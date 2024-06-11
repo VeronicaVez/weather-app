@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background: bisque;
+}
+
+.App h1{
+    display: flex;
+    justify-content: center;
+    padding-top:30px;
+    font-size: 2.5rem;
+}
